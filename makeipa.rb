@@ -169,7 +169,7 @@ def main
 	  chName += '_' + d.year.to_s + '_'+ d.month.to_s + '_' + d.day.to_s
 	  ipafile = "#{$ipapath}aiya_#{chName}.ipa"
 	  
-	  Zipper.zip('/Users/apple/Desktop/Payload/app/*', ipafile)
+	  Zipper.zip('/Users/me/Desktop/Payload/app/*', ipafile)
 	  
 	  #发布到服务器
 	 

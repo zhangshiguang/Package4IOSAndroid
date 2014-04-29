@@ -30,8 +30,8 @@ $cppfile ="./#($projectname)/Classes/ISSConnect.m
 $cppfile_al ="./#($projectname)/Classes/ISSConnect2.m"
 
 $appBuild ='./build/Release-iphoneos/Order.app'
-$appDesktop ="~/Desktop/Payload/app/Payload/#($projectname).app"
-$ipapath  ='/~/Desktop/Payload/bin/' 
+$appDesktop ="/Users/me/Desktop/Payload/app/Payload/#($projectname).app"
+$ipapath  ='/Users/me/Desktop/Payload/bin/' 
 
 
 #准备好目录
